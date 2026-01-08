@@ -1,0 +1,7 @@
+*.log
+*.log.*
+*.tmp
+*.temp
+*.swp
+*.bak
+AppData/
